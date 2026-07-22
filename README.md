@@ -1,2 +1,17 @@
-# python--simple-calculator
-A simple calculator project built using Python.
+# Python Simple Calculator
+
+## Description
+A simple calculator application built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technologies Used
+- Python
+
+## Author
+Mounika Rajavarapu
+B.Tech AIML Student
