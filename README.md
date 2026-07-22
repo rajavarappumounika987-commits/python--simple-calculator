@@ -13,5 +13,5 @@ A simple calculator application built using Python.
 - Python
 
 ## Author
-Mounika Rajavarapu
+Mounika Rajavarappu
 B.Tech AIML Student
